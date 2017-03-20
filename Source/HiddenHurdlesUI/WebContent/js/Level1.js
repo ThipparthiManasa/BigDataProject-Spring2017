@@ -1,6 +1,9 @@
 /**
  * Created by Manasa
  */
+$(document).ready(function(){
+	$("#hintlocationDiv").hide();
+});
 var count=0;
 function findImageType(abc){
 	 $('#txt_area').hide();
