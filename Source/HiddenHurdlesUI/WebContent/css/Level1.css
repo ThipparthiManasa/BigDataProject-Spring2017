@@ -196,3 +196,14 @@ div#hintsDiv {
     top:65%;
     left:80%;
 }
+div#hintlocationDiv{
+	position:absolute;
+	height:20px;
+	width:40px;
+	top: 47%;
+    left: 31%;
+}
+img#hintlocation{
+	height:20px;
+	width:40px;
+}
