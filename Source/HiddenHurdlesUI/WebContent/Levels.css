@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link href="css/Levels.css" rel="stylesheet">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/Levels.js"></script>
+</head>
+<body>
+<body background="images\tyb.jpg">
+<h1 align="center">Select Play Mode:</h1>
+<button class="Normal" type="submit" id="level1"><font size="5">Normal</font></button>
+<button class="Challenge" type="submit" id="level2"><font size="5">Challenge</font></button>
+<div id="divhome">
+<button class="Home" type="submit" id="Home">Home</button>
+</div>
+</body>
+</html>
