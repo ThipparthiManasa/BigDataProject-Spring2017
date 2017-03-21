@@ -160,6 +160,7 @@ function findImageType(abc){
     return dataURL.replace(/^data:image\/(png|jpg);base64,/, "");
   }
 
+// Generating Hints
  
 $(document).ready(function(){
 	$("#hints").click(function(){
