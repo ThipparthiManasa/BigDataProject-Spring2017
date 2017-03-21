@@ -9,7 +9,7 @@ $(document).ready(function(){
 	$("#level2").click(function(){
 		window.location.href = "Level2.html";
 	});
-$("#level2").click(function(){
+$("#level3").click(function(){
 		window.location.href = "Level3.html";
 	});
 });
