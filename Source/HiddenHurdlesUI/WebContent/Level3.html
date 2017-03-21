@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Insert title here</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="css/Level2.css" rel="stylesheet">
+    <link href="css/timer.css" rel="stylesheet">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/Level2.js"></script>
+    <script type="text/javascript" src="js/timer.js"></script>
+</head>
+
+<body>
+
+<div>
+    <img src="images/LevelHeader.JPG" id="header">
+</div>
+
+<div class="item html">
+    <h2>0</h2>
+    <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+        <g>
+            <title>Layer 1</title>
+            <circle id="circle" class="circle_animation" r="32.85699" cy="50" cx="50" stroke-width="10" fill="none" />
+        </g>
+    </svg>
+</div>
+
+<div id="scoreDiv">
+    <span id="score">Score : 00</span>
+</div>
+
+<div>
+    <img src="images/level2BG.jpg" id="background_image">
+</div>
+<div id="img1div">
+    <img src="images/watermelon.jpg" class="img" id="img1" onclick="findImageType(this)">
+</div><div id="img2div">
+    <img src="images/cherry.jpg" class="img" id="img2" onclick="findImageType(this)">
+</div><div id="img3div">
+    <img src="images/grapes.jpg" class="img" id="img3" onclick="findImageType(this)">
+</div><div id="img4div">
+    <img src="images/mango.jpg" class="img" id="img4" onclick="findImageType(this)">
+</div><div id="img5div">
+    <img src="images/oranges.jpg" class="img" id="img5" onclick="findImageType(this)">
+</div><div id="img6div">
+    <img src="images/papaya.jpg" class="img" id="img6" onclick="findImageType(this)">
+</div><div id="img7div">
+    <img src="images/pineapple.jpg" class="img" id="img7" onclick="findImageType(this)">
+</div><div id="img8div">
+    <img src="images/strawberry.jpg" class="img" id="img8" onclick="findImageType(this)">
+</div>
+
+<div id="button1Div" class="buttonGroup1">
+    <button type="button" class="btn btn-primary" id="button1">Watermelon</button>
+</div><div id="button2Div" class="buttonGroup1">
+    <button type="button" class="btn btn-primary" id="button2">Cherry</button>
+</div><div id="button3Div" class="buttonGroup1">
+    <button type="button" class="btn btn-primary" id="button3">Grapes</button>
+</div><div id="button4Div" class="buttonGroup1">
+    <button type="button" class="btn btn-primary" id="button4">Mango</button>
+</div><div id="button5Div" class="buttonGroup2">
+    <button type="button" class="btn btn-primary" id="button5">Oranges</button>
+</div><div id="button6Div" class="buttonGroup2">
+    <button type="button" class="btn btn-primary" id="button6">Papaya</button>
+</div><div id="button7Div" class="buttonGroup2">
+    <button type="button" class="btn btn-primary" id="button7">Pineapple</button>
+</div><div id="button8Div" class="buttonGroup2">
+    <button type="button" class="btn btn-primary" id="button8">Strawberry</button>
+</div>
+
+<div id="hintsDiv">
+    <img src="images/hints.png" id="hints">
+</div>
+
+<div id="hintlocationDiv">
+    <img src="images/location.png" id="hintlocation"></div>
+</body>
+</html>
