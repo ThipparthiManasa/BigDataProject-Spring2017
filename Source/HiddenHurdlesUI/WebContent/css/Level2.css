@@ -233,6 +233,8 @@ div#hintsDiv {
     top:65%;
     left:80%;
 }
+ /* Hint Images */ 
+
 div#hintlocationDiv{
 	position:absolute;
 	height:20px;
