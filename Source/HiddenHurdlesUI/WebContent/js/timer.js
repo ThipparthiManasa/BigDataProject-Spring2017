@@ -2,7 +2,7 @@
  * Created by Manasa
  */
 
-var time = 3600;
+var time = 1000;
 var initialOffset = '210';
 var i = 1
 
