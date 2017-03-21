@@ -186,6 +186,8 @@ span#score {
     font-size: 20px;
     font-family: cursive;
 }
+
+/* Hint Images */
 img#hints {
     height: 180px;
     width: 180px;
