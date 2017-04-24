@@ -21,63 +21,63 @@ body{
 }
 
 div#img1div {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     position: absolute;
-    top: 600px;
-    left: 1150px;
+    top: 405px;
+    left: 765px;
 }
 
 #img1{
-	height: 50px;
-    width: 50px;
+	height: 30px;
+    width: 30px;
 }
 
 #img2{
-	height: 50px;
-    width: 50px;
+	height: 30px;
+    width: 30px;
 }
 
 div#img2div {
     height: 30px;
   	width: 30px;
     position: absolute;
-    top: 900px;
-    left: 200px;
+    top: 600px;
+    left: 150px;
 }
 
 div#img3div {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     position: absolute;
-    top: 900px;
-    left: 100px;
+    top: 590px;
+    left: 120px;
 }
 
 #img3{
-	height: 50px;
-    width: 50px;
+	height: 30px;
+    width: 30px;
 }
 
 div#img4div {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     position: absolute;
-    top: 900px;
-    left: 300px;
+    top: 600px;
+    left: 220px;
 }
 
 #img4{
-	height: 40px;
-    width: 40px;
+	height: 30px;
+    width: 30px;
 }
 
 div#img5div {
     height: 50px;
     width: 50px;
     position: absolute;
-    top: 750px;
-    left: 600px;
+    top: 500px;
+    left: 400px;
 }
 
 #img5{
@@ -86,44 +86,44 @@ div#img5div {
 }
 
 div#img6div {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     position: absolute;
     top: 66%;
     left: 57%;
 }
 
 #img6{
-	height: 50px;
-    width: 50px;
+	height: 30px;
+    width: 30px;
 }
 
 div#img7div {
-    height: 70px;
-    width: 70px;
+    height: 50px;
+    width: 50px;
     position: absolute;
-    top: 800px;
+    top: 500px;
     left: 500px;
 
 }
 
 #img7{
-	height: 70px;
-    width: 70px;
+	height: 50px;
+    width: 50px;
 }
 
 div#img8div {
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
     position: absolute;
-    top: 630px;
-    left: 430px;
+    top: 420px;
+    left: 290px;
 
 }
 
 #img8{
-	height: 50px;
-    width: 50px;
+	height: 30px;
+    width: 30px;
 }
 
 button.btn.btn-primary {
