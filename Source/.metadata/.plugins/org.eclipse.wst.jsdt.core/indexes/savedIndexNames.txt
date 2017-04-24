@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+D:\UMKC\BigData\Github\BigDataProject-Spring2017\Source\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2798497493.index
+144955288.index
+3121674213.index
+3459248500.index
+3646012981.index
+3771729809.index
