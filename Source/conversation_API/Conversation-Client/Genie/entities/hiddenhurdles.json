@@ -1,0 +1,33 @@
+{
+  "id": "2667a348-816e-4356-ad6b-5531b55a9ec6",
+  "name": "hiddenhurdles",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "level1",
+      "synonyms": [
+        "level1"
+      ]
+    },
+    {
+      "value": "level2",
+      "synonyms": [
+        "level2"
+      ]
+    },
+    {
+      "value": "level3",
+      "synonyms": [
+        "level3"
+      ]
+    },
+    {
+      "value": "hiddenhurdles",
+      "synonyms": [
+        "hiddenhurdles"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
