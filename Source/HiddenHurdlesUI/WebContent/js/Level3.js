@@ -141,5 +141,12 @@ function findImageType(abc){
 $(document).ready(function(){
 	$("#hints").click(function(){
 		$("#img8").css("border","2px solid #4195fc");
+		$("#img7").css("border","2px solid #4195fc");
+		$("#img6").css("border","2px solid #4195fc");
+		$("#img5").css("border","2px solid #4195fc");
+		$("#img4").css("border","2px solid #4195fc");
+		$("#img3").css("border","2px solid #4195fc");
+		$("#img2").css("border","2px solid #4195fc");
+		$("#img1").css("border","2px solid #4195fc");
 	});
 });
