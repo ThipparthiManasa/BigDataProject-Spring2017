@@ -1,0 +1,249 @@
+#header{
+	height: 50px;
+    width: 502px;
+    position: fixed;
+    top: 25px;
+    left: 270px;
+    border-radius: 5px;
+}
+
+body{
+	background: #A18F77;
+}
+
+#background_image{
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    top: 15%;
+    left: 3%;
+    border-radius: 15px;
+}
+
+/* Aligning Images */
+div#img1div {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 540px;
+    left: 540px;
+}
+
+#img1{
+	height: 70px;
+    width: 70px;
+}
+
+#img2{
+	height: 100px;
+    width: 100px;
+}
+
+div#img2div {
+    height: 100px;
+  	width: 100px;
+    position: absolute;
+    top: 514px;
+    left: 400px;
+}
+		
+div#img3div {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 65%;
+    left: 26%;
+}
+		
+#img3{
+	height: 50px;
+    width: 50px;
+}
+
+div#img4div {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 65%;
+    left: 18%;
+}
+
+#img4{
+	height: 50px;
+    width: 50px;
+}
+
+div#img5div {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 28%;
+    left: 69%;
+}
+
+#img5{
+	height: 40px;
+    width: 40px;
+}
+		
+div#img6div {
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    top: 64%;
+    left: 54%;
+}
+		
+#img6{
+	height: 70px;
+    width: 70px;
+}
+
+div#img7div {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+#img7{
+	height: 40px;
+    width: 60px;
+}
+
+div#img8div {
+    height: 40px;
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    left: 33%;
+
+}
+
+#img8{
+	height: 40px;
+    width: 40px;
+}
+
+div#img9div {
+    height: 40px;
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    left: 33%;
+
+}
+
+#img9{
+	height: 40px;
+    width: 40px;
+}
+
+div#img10div {
+    height: 40px;
+    width: 60px;
+    position: absolute;
+    top: 50%;
+    left: 33%;
+
+}
+
+#img10{
+	height: 40px;
+    width: 40px;
+}
+		
+button.btn.btn-primary {
+    background: #ae4942;
+    width: 120px;
+    padding-top: 13px;
+    text-align:center;
+    font-size: 14px;
+    border-radius:15px;
+    font-family: monospace;
+}
+.buttonGroup1 {
+    position: absolute;
+    margin-left: 76%;
+}
+.buttonGroup2 {
+    position: absolute;
+    margin-left: 86%;
+}
+#button1Div{
+	margin-top:13%;
+	position: absolute;
+}
+#button2Div{
+	margin-top:17%;
+	position: absolute;
+}
+#button3Div{
+	margin-top:21%;
+	position: absolute;
+}
+#button4Div{
+	margin-top:25%;
+	position: absolute;
+}
+#button5Div{
+	margin-top:13%;
+	position: absolute;
+}
+#button6Div{
+	margin-top:17%;
+	position: absolute;
+}
+#button7Div{
+	margin-top:21%;
+	position: absolute;
+}
+#button8Div{
+	margin-top:25%;
+	position: absolute;
+}
+#button9Div{
+	margin-top:25%;
+	position: absolute;
+}
+#button10Div{
+	margin-top:25%;
+	position: absolute;
+}
+div#scoreDiv {
+    margin-left: 81%;
+    margin-top: 8%;
+    position: absolute;
+}
+span#score {
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+}
+/* Hint image */
+img#hints {
+    height: 180px;
+    width: 180px;
+}
+div#hintsDiv {
+    position: absolute;
+    height: 180px;
+    width: 180px;
+    top:67%;
+    left:80%;
+}
+ /* Hint Image Arrow */ 
+
+div#hintlocationDiv{
+	position:absolute;
+	height:20px;
+	width:40px;
+	top: 47%;
+    left: 31%;
+}
+img#hintlocation{
+	height:20px;
+	width:40px;
+}
