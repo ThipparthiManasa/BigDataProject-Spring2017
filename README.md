@@ -10,7 +10,7 @@ https://github.com/ManasaReddyThipparthi/BigDataProject-Spring2017/blob/master/D
 
 PPT:
 
-https://www.dropbox.com/s/rrh3zv3i85dg1pn/Hidden%20Hurdles%20Final%20Ptresentation.pptx?dl=0
+https://www.dropbox.com/s/2celisxqrkjb9yp/Hidden%20Hurdles%20Final%20Ptresentation.pptx?dl=0
 
 Video Url:
 
